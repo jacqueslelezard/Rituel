@@ -1,6 +1,11 @@
 # Rituel (a Soundworks based application)
 
-> Rituel is a multiplayer smartphone game that you play ...without screen. Made in 48h for the "Smartphone & mouvement" game jam by Le Gamelier et the CRI (more about 
+> Rituel is a multiplayer smartphone game that you play ...without screen. Made in 48h for the "Smartphone & mouvement" game jam by Mallory Agoumba, 
+Mike Destivelle, 
+Elie Mietkiewicz, 
+Timothy Sharp &  
+Nicolas Strale with the help of 
+Le Gamelier et the CRI (more about 
 [*Soundworks*](https://github.com/collective-soundworks/soundworks/) ).
 
 
