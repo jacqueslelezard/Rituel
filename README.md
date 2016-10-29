@@ -1,7 +1,8 @@
-# Soundworks Application Template
+# Rituel (a Soundworks based application)
 
-> This is a project template for developing [*Soundworks*](https://github.com/collective-soundworks/soundworks/) applications.  
-> The template also includes comprehensive comments in the source files.
+> Rituel is a multiplayer smartphone game that you play ...without screen. Made in 48h for the "Smartphone & mouvement" game jam by Le Gamelier et the CRI (more about 
+[*Soundworks*](https://github.com/collective-soundworks/soundworks/) ).
+
 
 [//]: # (For a complete documentation of the *Soundworks* framework, please refer to http://collective-soundworks.github.io/soundworks/.)
 
