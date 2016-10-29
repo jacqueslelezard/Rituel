@@ -1,0 +1,96 @@
+/**
+ * Mixins
+ */
+@import '01-mixins';
+
+/**
+ * Defines some global layout variables (background-color, text-color, etc...)
+ * Change values to change the general look of the application
+ */
+@import 'configuration';
+
+/**
+ * Class helpers (.small, .big for font sizes, .btn, etc..)
+ */
+@import '02-commons';
+
+/**
+ * Services styles.
+ */
+@import '03-services';
+
+/**
+ * Import and overrides `wavesjs/basic-controllers` sass files,
+ * rendering of the controls can be configured though variables here.
+ */
+@import '04-basic-shared-controller';
+
+/**
+ * Default styles for the `survey` scene.
+ */
+@import '05-survey';
+
+/**
+ * Entry point for application specific styling and overriding.
+ */
+@import 'overrides';
+
+.header{
+    height: 5%;
+}
+
+.section-center{
+    min-height: 500px;
+}
+
+.back{
+    max-height: 110px;
+    margin-top: 50px;
+    background-color: rgba(255,255,255,0.8);
+}
+
+h1{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.desactivate{
+    min-height: 300px;
+}
+
+.big{
+    background-color: rgba(255,255,255,0.8);
+}
+
+.intro{
+    background-color: rgba(255,255,255,0);
+    font-size: 12px;
+    padding: 30px;
+    box-sizing: border-box;
+    
+    b{
+        padding-top: 50px;
+        font-size: 40px;
+        display: block;
+    }
+}
+
+.section-top{
+    min-height: 227.7px;
+    background-image: url('../img/initie.png');
+    background-position: center 104%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 35px;
+}
+
+body{
+    height: 100%;
+    overflow: hidden;
+}
