@@ -47,6 +47,7 @@
     "ora": "^0.2.0",
     "uglifyjs": "^2.4.10",
     "watch": "^0.17.1",
-    "watchify": "^3.7.0"
+    "watchify": "^3.7.0",
+    "phantomjs": "^"
   }
 }
