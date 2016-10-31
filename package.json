@@ -7,11 +7,7 @@
   "license": "BSD-3-Clause",
   "version": "1.1.1",
   "scripts": {
-    "minify": "node ./bin/runner --minify",
-    "prewatch": "npm run transpile",
-    "start": "node ./bin/runner --start",
-    "transpile": "node ./bin/runner --transpile",
-    "watch": "node ./bin/runner --watch"
+    "start": "npm run watch",
   },
   "repository": {
     "type": "git",
