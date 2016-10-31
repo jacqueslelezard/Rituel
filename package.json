@@ -10,7 +10,7 @@
     "minify": "node ./bin/runner --minify",
     "prewatch": "npm run transpile",
     "start": "node ./bin/runner --start",
-    "transpile": "node ./bin/runner --transpile",
+    "transpile": "node ./bin/runner --transpile"
   },
   "repository": {
     "type": "git",
