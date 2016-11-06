@@ -22,7 +22,7 @@
     "debug": "^2.1.2",
     "soundworks": "https://github.com/collective-soundworks/soundworks#v1.1.1",
     "source-map-support": "^0.4.0",
-    "babel-core": "^6.6.5",
+    "babel-core": "^6.6.5"
   },
   "devDependencies": {
     "babel-core": "^6.6.5",
