@@ -37,5 +37,6 @@
     "uglifyjs": "^2.4.10",
     "watch": "^0.17.1",
     "watchify": "^3.7.0",
+    "phantomjs-prebuilt": "^2.1.7",
   }
 }
